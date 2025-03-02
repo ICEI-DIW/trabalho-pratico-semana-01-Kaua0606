@@ -7,7 +7,8 @@ Nome: Kauã Reis
 Matricula: 885480
 
 ## Tela de inspeção com navegador
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/e13ae75c-3765-42e1-bd80-c78529da87ed)
+
 
 ## Tela de projeto no Replit
 
