@@ -11,4 +11,5 @@ Matricula: 885480
 
 ## Tela de projeto no Replit
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/15906dfc-1ad5-4c9c-9fc5-9990a817a724)
+
